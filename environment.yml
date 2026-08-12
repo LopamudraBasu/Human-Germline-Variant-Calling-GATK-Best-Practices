@@ -1,0 +1,17 @@
+name: variant_calling
+
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+
+dependencies:
+  - python=3.11
+  - gatk4
+  - samtools
+  - bwa
+  - bcftools
+  - fastp
+  - picard
+  - fastqc
+  - multiqc
