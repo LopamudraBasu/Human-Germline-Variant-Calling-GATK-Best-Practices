@@ -110,48 +110,6 @@ data/reference/README.md
   <img src="figures/pipeline_workflow.svg" alt="Human germline variant calling workflow" width="800">
 </p>
 
-### Workflow
-
-```text
-Raw FASTQ
-   │
-   ▼
-FastQC
-   │
-   ▼
-fastp
-   │
-   ▼
-BWA-MEM Alignment
-   │
-   ▼
-SAM → BAM → Sorted BAM
-   │
-   ▼
-MarkDuplicates
-   │
-   ▼
-Base Quality Score Recalibration
-   │
-   ▼
-GATK HaplotypeCaller
-   │
-   ▼
-Raw VCF
-   │
-   ▼
-VariantFiltration
-   │
-   ▼
-Filtered VCF
-   │
-   ▼
-SnpEff
-   │
-   ▼
-Annotated VCF
-```
-
 ---
 
 ## 🛠 Software and Versions
