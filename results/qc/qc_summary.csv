@@ -1,0 +1,12 @@
+Metric,Before_Filtering,After_Filtering
+Total_Reads,40406004,38192282
+Total_Bases,4081006404,3768294726
+Q20_Rate,0.959487,0.983104
+Q30_Rate,0.908199,0.937355
+Mean_Read_Length,101,98
+GC_Content,0.496913,0.493629
+Passed_Filter_Reads,,38192282
+Low_Quality_Reads,,2190360
+Too_Many_N_Reads,,23362
+Adapter_Trimmed_Reads,,4590044
+Adapter_Trimmed_Bases,,91152918

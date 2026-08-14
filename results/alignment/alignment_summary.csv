@@ -1,0 +1,19 @@
+Metric,Value
+Total reads,38192282
+Mapped reads,38191043
+Mapping rate (%),99.997
+Properly paired reads,37985850
+Properly paired rate (%),99.46
+Duplicate reads,2338372
+Duplicate rate (%),6.1228
+Primary reference length (bp),3088269832
+Mean depth (X),1.13525
+Positions >=10X (%),2.52311
+Positions >=20X (%),1.68707
+Positions >=30X (%),1.13445
+Positions 0X (%),85.3747
+Positions 1-4X (%),11.4113
+Positions 5-9X (%),0.690924
+Positions 10-19X (%),0.836039
+Positions 20-29X (%),0.552625
+Positions >=30X (%),1.13445

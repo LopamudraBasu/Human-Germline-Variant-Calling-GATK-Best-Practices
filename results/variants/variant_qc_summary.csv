@@ -1,0 +1,19 @@
+Metric,Value
+Total variant records,283102
+PASS variants,271726
+Filtered variants,11376
+PASS rate (%),95.98
+PASS SNPs,238731
+PASS INDELs,32995
+Transitions,143432
+Transversions,95299
+Ti/Tv ratio,1.505
+PASS genotypes,271726
+Mean PASS GQ,34.22
+PASS GQ <20,163859
+PASS GQ <30,173482
+Mean PASS variant DP,11.83
+PASS DP <10,191340
+PASS DP 10-19,30007
+PASS DP 20-29,18050
+PASS DP >=30,32329
